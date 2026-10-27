@@ -1,4 +1,4 @@
-# mbap_project
+# StudyBuddy
 
 A new Flutter project.
 
