@@ -1,5 +1,6 @@
 # StudyBuddy - Study-Planner-App
 
+This is a project and not a product
 AI-driven study planner app project.
 
 ## Features
