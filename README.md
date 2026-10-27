@@ -1,1 +1,1 @@
-# StudyBuddy---Study-Planner-App
+# StudyBuddy - Study-Planner-App
